@@ -1,4 +1,4 @@
-The transcript from [Jools Lebron's viral TikTok](https://www.tiktok.com/@joolieannie/video/7399736793119247662).
+The transcript from [**Jools Lebron's viral TikTok**](https://www.tiktok.com/@joolieannie/video/7399736793119247662).
 
 ---
 
