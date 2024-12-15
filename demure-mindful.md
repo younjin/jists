@@ -27,5 +27,5 @@ What's the name you'd like me to make it out to?
 
 ---
 
-[^1] "Cut crease" refers to a specific look achieved with eye makeup: a neutral or lighter shade of eye shadow is applied to the crease of the eyelid, and a darker shade is applied above the crease. A white or cream shadow is applied between the two shades to amplify the contrast, which creates the "cut crease" effect.
+[^1]: "Cut crease" refers to a specific look achieved with eye makeup: a neutral or lighter shade of eye shadow is applied to the crease of the eyelid, and a darker shade is applied above the crease. A white or cream shadow is applied between the two shades to amplify the contrast, which creates the "cut crease" effect.
   See [**here**](https://www.maybelline.com/makeup-tips/eye/eyeshadow-makeup-tutorials/cut-crease-eyeshadow-tutorial) for a tutorial on how to achieve the general effect, and [**here**](https://www.instagram.com/p/C3k7zfVJ8JU) for a tutorial using green and gold shadow.
