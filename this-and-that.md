@@ -11,6 +11,8 @@ A few small things I find myself looking up over and over again.
 
 Keyboard shortcut: `shift + cmd + .`
 
+---
+
 ### Add a path to `PATH`
 
 - `PATH=$PATH:/DIR/`
@@ -18,7 +20,9 @@ Keyboard shortcut: `shift + cmd + .`
 
 See [**here**](https://unix.stackexchange.com/questions/26047/how-to-correctly-add-a-path-to-path) for more info.
 
-//todo: Is `export` necessary?
+❓ Is `export` necessary?
+
+---
 
 ### Count the number of files in a directory
 
